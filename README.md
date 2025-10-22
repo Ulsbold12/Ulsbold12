@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Ulsbold</h1>
 
-<!--
-**Ulsbold12/Ulsbold12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Full-stack Developer | 💡 Creative Thinker | 🎧 Music Lover
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Ulsbold"><img src="https://img.shields.io/github/followers/Ulsbold?label=Follow&style=social"></a>
+  <a href="https://github.com/Ulsbold?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-blue?logo=github"></a>
+  <img src="https://komarev.com/ghpvc/?username=Ulsbold&color=blueviolet&style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 🔭 Currently working on **React Native & Firebase projects**
+- 🌱 Learning **Next.js**, **TailwindCSS**, and **TypeScript**
+- 💬 Ask me about **frontend design**, **UX**, or **cool side projects**
+- 🎯 Goal: Build apps that people *actually love using*
+
+---
+
+### ⚙️ Tech Stack
+```bash
+💻 Languages: JavaScript | TypeScript | Python | Java  
+🧰 Frameworks: React | React Native | Node.js | Express  
+🎨 Design: Figma | TailwindCSS | Framer Motion  
+☁️ Cloud: Firebase | Vercel | Supabase
