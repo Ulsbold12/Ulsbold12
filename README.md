@@ -1,32 +1,61 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&fontColor=ffffff&fontAlign=50&fontAlignY=40&text=Ulsbold%20%7C%20Full%20Stack%20Developer&desc=Designing%20the%20future%2C%20one%20pixel%20at%20a%20time.&descAlignY=60&animation=twinkling" alt="Ulsbold Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&fontColor=ffffff&fontAlign=50&fontAlignY=40&text=Mini%20Social%20Network&desc=Connect%E2%80%A2Share%E2%80%A2Interact&descAlignY=60&animation=twinkling" alt="Mini Social Network Header"/>
 </p>
+
+<!-- ===== ASCII LOGO ===== -->
+<pre align="center">
+███╗   ███╗██╗███╗   ██╗██╗ ██████╗ ███████╗
+████╗ ████║██║████╗  ██║██║██╔═══██╗██╔════╝
+██╔████╔██║██║██╔██╗ ██║██║██║   ██║███████╗
+██║╚██╔╝██║██║██║╚██╗██║██║██║   ██║╚════██║
+██║ ╚═╝ ██║██║██║ ╚████║██║╚██████╔╝███████║
+╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚══════╝
+</pre>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;JavaScript+%26+TypeScript+%7C+React+%26+Next.js;Creating+beautiful+%2B+scalable+digital+experiences+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Next.js+%7C+React+%7C+Tailwind;Building+neon+social+interfaces;Minimal+and+modern+UI" alt="Typing SVG" />
 </h3>
 
 ---
 
-### 🧠 About Me  
-> “Building smooth experiences through elegant code and thoughtful design.”
+### 🧩 About Mini Social  
 
-I’m **Ulsbold**, a full-stack developer passionate about blending technology with creativity.  
-My focus: building **intuitive UIs**, **clean architecture**, and **apps that feel alive**.
+> “Connect, Share, Interact – all in one sleek social-style UI”
 
-- 🔭 Currently working on **React Native** and **Next.js** apps  
-- 🌱 Exploring **TypeScript**, **Framer Motion**, and **Supabase**  
-- 💬 Ask me about **Frontend Architecture**, **UI Motion**, or **Design Systems**  
-- 🎯 Goal: To create tools that *empower creativity and productivity*  
+Mini Social is a **small social playground** built for **learning frontend & UI design**:  
+- 📝 Post text, images, GIFs  
+- ❤️ Like & comment interactions  
+- 👤 User profiles & responsive layout  
+- 🌌 Dark mode + neon accents  
+- 🔮 Built to experiment with modern frontend tools  
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,figma,firebase,supabase,git,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,figma,git,vercel&theme=dark" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+| 🛠 Project | Stack | Link |
+|------------|-------|------|
+| **Mini Social Network** | Next.js • Tailwind • React | [Repo](#) |
+| **LeaveRequestApp** | React Native • Firebase | [Repo](#) |
+| **Portfolio Website** | React • Framer Motion | [Live](#) |
+
+---
+
+### 🎆 Animated Badges / GIFs  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Neon Animation"/>
+  <img src="https://media.giphy.com/media/xT9KVHryK1f6rVgk5e/giphy.gif" width="200" alt="Cyber Neon"/>
 </p>
 
 ---
@@ -44,24 +73,7 @@ My focus: building **intuitive UIs**, **clean architecture**, and **apps that fe
 
 ---
 
-### 🚀 Featured Projects  
-
-| 🧩 Project | 🔧 Stack | 🔗 Link |
-|-------------|-----------|--------|
-| **LeaveRequestApp** | React Native • Firebase | [View Repo](#) |
-| **TaskFlow** | Next.js • TailwindCSS • TypeScript | [View Repo](#) |
-| **Portfolio Website** | React • Framer Motion • Vercel | [Live Demo](#) |
-
----
-
-### ✍️ Blog Topics  
-🧠 *Design Systems & Component Thinking*  
-⚡ *How to Scale Firebase Apps Efficiently*  
-🎨 *Micro-interactions: The Secret to Modern UI*  
-
----
-
-### 🌐 Connect with Me  
+### 🌐 Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ulsbold"><img src="https://img.shields.io/badge/LinkedIn-Ulsbold-blue?logo=linkedin&style=for-the-badge"></a>
@@ -71,14 +83,8 @@ My focus: building **intuitive UIs**, **clean architecture**, and **apps that fe
 
 ---
 
-### 🪄 Brand Signature  
-
 <p align="center">
-  <img src="https://github.com/raihaninfo/raihaninfo/blob/main/particle-banner.svg" width="100%" alt="animated particles background"/>
-</p>
-
-<p align="center">
-  <i>“Design. Code. Inspire.”</i> — <b>Ulsbold</b>
+  <i>“Build. Connect. Inspire.”</i> — <b>Ulsbold</b>
 </p>
 
 <p align="center">
