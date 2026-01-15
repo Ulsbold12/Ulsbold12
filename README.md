@@ -1,92 +1,100 @@
-<!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&fontColor=ffffff&fontAlign=50&fontAlignY=40&text=Mini%20Social%20Network&desc=Connect%E2%80%A2Share%E2%80%A2Interact&descAlignY=60&animation=twinkling" alt="Mini Social Network Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=000000&fontColor=00f2fe&text=MINI%20SOCIAL%20NETWORK&desc=Next-Gen%20Social%20Interface&section=header&reversal=false&animation=fadeIn" alt="Header"/>
 </p>
 
-<!-- ===== ASCII LOGO ===== -->
-<pre align="center">
-███╗   ███╗██╗███╗   ██╗██╗ ██████╗ ███████╗
-████╗ ████║██║████╗  ██║██║██╔═══██╗██╔════╝
-██╔████╔██║██║██╔██╗ ██║██║██║   ██║███████╗
-██║╚██╔╝██║██║██║╚██╗██║██║██║   ██║╚════██║
-██║ ╚═╝ ██║██║██║ ╚████║██║╚██████╔╝███████║
-╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚══════╝
-</pre>
-
-<!-- ===== TYPING ANIMATION ===== -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Next.js+%7C+React+%7C+Tailwind;Building+neon+social+interfaces;Minimal+and+modern+UI" alt="Typing SVG" />
-</h3>
-
----
-
-### 🧩 About Mini Social  
-
-> “Connect, Share, Interact – all in one sleek social-style UI”
-
-Mini Social is a **small social playground** built for **learning frontend & UI design**:  
-- 📝 Post text, images, GIFs  
-- ❤️ Like & comment interactions  
-- 👤 User profiles & responsive layout  
-- 🌌 Dark mode + neon accents  
-- 🔮 Built to experiment with modern frontend tools  
-
----
-
-### ⚡ Tech Stack  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Connect.+Share.+Interact.;The+Future+of+Social+UI;Built+with+Next.js+14" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,figma,git,vercel&theme=dark" />
+  <a href="#-tech-stack"><b>Tech Stack</b></a> •
+  <a href="#-key-features"><b>Features</b></a> •
+  <a href="#-quick-start"><b>Quick Start</b></a> •
+  <a href="#-contribute"><b>Contribute</b></a>
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🌌 Project Essence
 
-| 🛠 Project | Stack | Link |
-|------------|-------|------|
-| **Mini Social Network** | Next.js • Tailwind • React | [Repo](#) |
-| **LeaveRequestApp** | React Native • Firebase | [Repo](#) |
-| **Portfolio Website** | React • Framer Motion | [Live](#) |
+> **"Mini Social"** бол зүгээр нэг апп биш, энэ бол орчин үеийн React экосистемийн туршилтын талбар юм. Неон дизайн, хурдтай ажиллагаа, хэрэглэгчийн мэдрэмжийг (UX) дээдэлсэн төсөл.
 
----
-
-### 🎆 Animated Badges / GIFs  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" alt="Neon Animation"/>
-  <img src="https://media.giphy.com/media/xT9KVHryK1f6rVgk5e/giphy.gif" width="200" alt="Cyber Neon"/>
-</p>
+### ✨ Key Features
+* **🎭 Dynamic Feed:** Текст, зураг болон GIF-г хослуулан нийтлэх боломж.
+* **⚡ Real-time Feedback:** Лайк болон сэтгэгдлийн систем (Optimistic UI).
+* **🌑 Cyber Dark Mode:** Нүдэнд ээлтэй, неон гэрэлтүүлэгтэй өвөрмөц дизайн.
+* **📱 Fully Responsive:** Бүх төрлийн төхөөрөмж дээр төгс харагдац.
 
 ---
 
-### 📈 GitHub Insights  
+### 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,figma,supabase,vercel&perline=4" />
+</div>
+
+<br/>
+
+| Feature | Technology |
+| :--- | :--- |
+| **Frontend** | Next.js 14 (App Router) |
+| **Styling** | Tailwind CSS + Headless UI |
+| **Animation** | Framer Motion |
+| **Icons** | Lucide React |
+
+---
+
+### 📊 My GitHub Journey
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ulsbold&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ulsbold&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ulsbold&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=00f2fe" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Ulsbold&theme=tokyonight&hide_border=false&border_radius=10&stroke=00f2fe&ring=00f2fe" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulsbold&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulsbold&theme=react-dark&hide_border=true&area=true&color=00f2fe" width="100%"/>
 </p>
 
 ---
 
-### 🌐 Connect  
+### 🚀 Projects Showcase
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ulsbold"><img src="https://img.shields.io/badge/LinkedIn-Ulsbold-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://t.me/ulsbold"><img src="https://img.shields.io/badge/Telegram-@Ulsbold-blue?logo=telegram&style=for-the-badge"></a>
-  <a href="mailto:ulsbold@example.com"><img src="https://img.shields.io/badge/Email-ulsbold%40example.com-red?logo=gmail&style=for-the-badge"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h4>🌐 Mini Social Network</h4>
+      <p>Modern social playground with neon UI.</p>
+      <a href="#"><b>View Repo →</b></a>
+    </td>
+    <td width="50%">
+      <h4>📋 LeaveRequestApp</h4>
+      <p>Mobile solution for enterprise leave management.</p>
+      <a href="#"><b>View Repo →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>“Build. Connect. Inspire.”</i> — <b>Ulsbold</b>
-</p>
+### 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=100" />
+  <a href="https://www.linkedin.com/in/ulsbold">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/ulsbold">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:ulsbold@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=00f2fe&height=100&reversal=true" />
+</div>
+
+<p align="center">
+  <i>"Код бичих бол урлаг, харин асуудлыг шийдэх бол шинжлэх ухаан юм."</i><br/>
+  <b>Made with 💙 by Ulsbold</b>
 </p>
