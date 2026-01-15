@@ -18,7 +18,7 @@
 ### 👋 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrMSRNrB19A2z2e/giphy.gif" width="150" alt="Coding GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9ydmluYjVlcmlzbTBuajUzdWw5Ymt2NDFpb3Q0ZXAyNTY1d3BuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif" width="150" alt="Coding GIF"/>
 </div>
 
 Hi there! I'm **Ulsbold**, a passionate and dedicated **Full-Stack Developer** with a knack for crafting robust, scalable, and user-friendly web applications. My journey in development spans from designing pixel-perfect UIs to architecting efficient backend systems and managing databases.
