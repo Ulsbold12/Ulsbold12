@@ -1,82 +1,92 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=000000&fontColor=00f2fe&text=MINI%20SOCIAL%20NETWORK&desc=Next-Gen%20Social%20Interface&section=header&reversal=false&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=000000&fontColor=00f2fe&text=FULL-STACK%20DEVELOPER&desc=Building%20Digital%20Realities&section=header&reversal=false&animation=fadeIn" alt="Header"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Connect.+Share.+Interact.;The+Future+of+Social+UI;Built+with+Next.js+14" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=I+Build+Web+Applications+End-to-End.;From+Pixels+to+Databases.;Passionate+About+Clean+Code+%26+UX." alt="Typing SVG" />
 </div>
 
 <p align="center">
+  <a href="#-about-me"><b>About Me</b></a> •
   <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-key-features"><b>Features</b></a> •
-  <a href="#-quick-start"><b>Quick Start</b></a> •
-  <a href="#-contribute"><b>Contribute</b></a>
+  <a href="#-my-projects"><b>My Projects</b></a> •
+  <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
 ---
 
-### 🌌 Project Essence
+### 👋 About Me
 
-> **"Mini Social"** бол зүгээр нэг апп биш, энэ бол орчин үеийн React экосистемийн туршилтын талбар юм. Неон дизайн, хурдтай ажиллагаа, хэрэглэгчийн мэдрэмжийг (UX) дээдэлсэн төсөл.
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrMSRNrB19A2z2e/giphy.gif" width="150" alt="Coding GIF"/>
+</div>
 
-### ✨ Key Features
-* **🎭 Dynamic Feed:** Текст, зураг болон GIF-г хослуулан нийтлэх боломж.
-* **⚡ Real-time Feedback:** Лайк болон сэтгэгдлийн систем (Optimistic UI).
-* **🌑 Cyber Dark Mode:** Нүдэнд ээлтэй, неон гэрэлтүүлэгтэй өвөрмөц дизайн.
-* **📱 Fully Responsive:** Бүх төрлийн төхөөрөмж дээр төгс харагдац.
+Hi there! I'm **Ulsbold**, a passionate and dedicated **Full-Stack Developer** with a knack for crafting robust, scalable, and user-friendly web applications. My journey in development spans from designing pixel-perfect UIs to architecting efficient backend systems and managing databases.
+
+I thrive on solving complex problems and transforming ideas into tangible digital solutions. With a strong foundation in both frontend and backend technologies, I enjoy the entire development lifecycle, ensuring a seamless experience for users and maintainable code for fellow developers.
+
+-   **Frontend Expertise:** Bringing designs to life with interactive and responsive user interfaces.
+-   **Backend Prowess:** Building powerful APIs and business logic that drive applications.
+-   **Database Whisperer:** Designing and optimizing data storage solutions.
+-   **Continuous Learner:** Always exploring new technologies and best practices to stay ahead.
 
 ---
 
-### 🛠 Tech Stack
+### 💻 My Full-Stack Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer,figma,supabase,vercel&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb,postgresql,docker,aws,git,vercel,figma&perline=6" />
 </div>
 
 <br/>
 
-| Feature | Technology |
-| :--- | :--- |
-| **Frontend** | Next.js 14 (App Router) |
-| **Styling** | Tailwind CSS + Headless UI |
-| **Animation** | Framer Motion |
-| **Icons** | Lucide React |
+| Category | Key Technologies |
+| :------- | :--------------- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express.js, NestJS, Python, GraphQL |
+| **Databases**| MongoDB, PostgreSQL, MySQL, Redis |
+| **DevOps/Cloud**| Docker, AWS, Vercel, Netlify |
+| **Tools** | Git, Figma, Postman, VS Code |
 
 ---
 
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ulsbold&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=00f2fe" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Ulsbold&theme=tokyonight&hide_border=false&border_radius=10&stroke=00f2fe&ring=00f2fe" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulsbold&theme=react-dark&hide_border=true&area=true&color=00f2fe" width="100%"/>
-</p>
-
----
-
-### 🚀 Projects Showcase
+### 🚀 My Projects
 
 <table width="100%">
   <tr>
     <td width="50%">
       <h4>🌐 Mini Social Network</h4>
-      <p>Modern social playground with neon UI.</p>
-      <a href="#"><b>View Repo →</b></a>
+      <p>A modern social platform demonstrating cutting-edge frontend UI/UX with a scalable backend.</p>
+      <a href="#"><b>View Project →</b></a>
     </td>
     <td width="50%">
       <h4>📋 LeaveRequestApp</h4>
-      <p>Mobile solution for enterprise leave management.</p>
-      <a href="#"><b>View Repo →</b></a>
+      <p>Full-stack mobile application for efficient employee leave management with Firebase backend.</p>
+      <a href="#"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/q1ZgMvY8mF8T30H8qF/giphy.gif" width="250" alt="Building GIF"/>
+</div>
+
 ---
 
-### 🤝 Let's Connect
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ulsbold&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=00f2fe&icon_color=00f2fe" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Ulsbold&theme=tokyonight&hide_border=false&border_radius=10&stroke=00f2fe&ring=00f2fe&fire=00f2fe" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulsbold&theme=react-dark&hide_border=true&area=true&color=00f2fe&line=00f2fe" width="100%"/>
+</p>
+
+---
+
+### 📧 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ulsbold">
@@ -95,6 +105,6 @@
 </div>
 
 <p align="center">
-  <i>"Код бичих бол урлаг, харин асуудлыг шийдэх бол шинжлэх ухаан юм."</i><br/>
-  <b>Made with 💙 by Ulsbold</b>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
+  <b>— Building digital realities with 💙 by Ulsbold</b>
 </p>
