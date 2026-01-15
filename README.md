@@ -1,7 +1,7 @@
 <div align="center">
   <img src="<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xlNGt5Ymo5MTdzdjR3dmgxczhlamxoNGxubHYyNzM2ODcxd2M5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduHY1wEoEOUyD96/giphy.gif" width="300" alt="Coding GIF"/>
-</div>" width="60%" alt="Coding GIF"/>
+</div>" width="80%" alt="Coding GIF"/>
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=000000&fontColor=00f2fe&text=FULL-STACK%20DEVELOPER&desc=Building%20Digital%20Realities&section=header&reversal=false&animation=fadeIn" alt="Header"/>
