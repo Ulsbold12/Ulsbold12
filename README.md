@@ -68,7 +68,7 @@ I thrive on solving complex problems and transforming ideas into tangible digita
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/q1ZgMvY8mF8T30H8qF/giphy.gif" width="250" alt="Building GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JiOGlidjhoZnd2aDk4azljZWhlMnQxZndzZmJhMWFvajFkd29tZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wHB67Zkr63UP7RWJsj/giphy.gif" width="250" alt="Building GIF"/>
 </div>
 
 ---
